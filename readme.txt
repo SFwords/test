@@ -6,3 +6,4 @@ Git is good.
 Git is great.
 new txt in readme.txt
 I and a boy.
+git is good thing.
