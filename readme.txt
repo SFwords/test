@@ -6,4 +6,8 @@ Git is good.
 Git is great.
 new txt in readme.txt
 I and a boy.
+<<<<<<< HEAD
 git is great thing.
+=======
+git is good thing.
+>>>>>>> kkk
